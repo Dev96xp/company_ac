@@ -1044,7 +1044,7 @@
                                 </svg>
                             </div>
                             <div>
-                                <div class="text-white font-semibold text-lg">Miami, FL &amp; Surrounding Areas</div>
+                                <div class="text-white font-semibold text-lg">Omaha, NE &amp; Surrounding Areas</div>
                                 <div class="text-gray-400 text-sm">Fast dispatch — technicians always nearby</div>
                             </div>
                         </div>
@@ -1086,7 +1086,7 @@
                         </div>
                         <div>
                             <label class="text-gray-400 text-sm mb-1.5 block font-medium">Phone Number</label>
-                            <input type="tel" placeholder="(555) 000-0000"
+                            <input type="tel" placeholder="(402) 000-0000"
                                 class="w-full bg-gray-700 border border-gray-600 text-white rounded-xl px-4 py-3 text-sm placeholder-gray-500 transition-all">
                         </div>
                         <div>
