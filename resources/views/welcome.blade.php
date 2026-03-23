@@ -1178,7 +1178,7 @@
                     <div class="space-y-3 text-sm">
                         <div>
                             <span class="text-gray-500 block text-xs mb-0.5">Phone</span>
-                            <span class="text-white">(555) 123-4567</span>
+                            <span class="text-white">(402) 906-3334</span>
                         </div>
                         <div>
                             <span class="text-gray-500 block text-xs mb-0.5">Email</span>
