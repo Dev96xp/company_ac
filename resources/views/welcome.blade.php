@@ -249,7 +249,7 @@
                 </div>
 
                 <div class="mb-4">
-                    <p class="text-3xl lg:text-4xl font-extrabold text-white tracking-wide leading-tight">
+                    <p class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-wide leading-tight">
                         Lalos
                         <span class="text-blue-400">Heating</span>
                         <span class="text-gray-400 font-light">&amp;</span>
@@ -259,13 +259,13 @@
                 </div>
 
                 <h1
-                    class="text-5xl lg:text-6xl xl:text-7xl font-extrabold text-white leading-[1.05] mb-6 tracking-tight">
+                    class="text-3xl sm:text-4xl lg:text-6xl xl:text-7xl font-extrabold text-white leading-[1.1] mb-6 tracking-tight">
                     Stay Cool.<br>
                     <span class="gradient-text">Stay Warm.</span><br>
                     <span class="gradient-text-red">Stay Comfortable.</span>
                 </h1>
 
-                <p class="text-3xl lg:text-4xl font-extrabold text-white tracking-wide leading-tight">
+                <p class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-wide leading-tight">
                     <span class="text-blue-400">(402) 906-3334</span>
                 </p>
 
@@ -304,15 +304,15 @@
 
                 <div class="flex gap-8">
                     <div>
-                        <div class="text-4xl font-extrabold text-white">15+</div>
+                        <div class="text-3xl sm:text-4xl font-extrabold text-white">15+</div>
                         <div class="text-gray-500 text-sm mt-0.5">Years of Experience</div>
                     </div>
                     <div class="border-l border-gray-700 pl-8">
-                        <div class="text-4xl font-extrabold text-white">2K+</div>
+                        <div class="text-3xl sm:text-4xl font-extrabold text-white">2K+</div>
                         <div class="text-gray-500 text-sm mt-0.5">Happy Clients</div>
                     </div>
                     <div class="border-l border-gray-700 pl-8">
-                        <div class="text-4xl font-extrabold text-white">24/7</div>
+                        <div class="text-3xl sm:text-4xl font-extrabold text-white">24/7</div>
                         <div class="text-gray-500 text-sm mt-0.5">Support Available</div>
                     </div>
                 </div>
@@ -450,7 +450,7 @@
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="text-blue-600 font-semibold text-sm uppercase tracking-widest">What We Do</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">Our Services</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">Our Services</h2>
                 <p class="text-gray-500 text-lg max-w-xl mx-auto">From full installations to emergency fixes — we
                     handle every HVAC need, every season.</p>
             </div>
@@ -611,7 +611,7 @@
         <div class="relative max-w-6xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="text-red-400 font-semibold text-sm uppercase tracking-widest">Our Difference</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Why Choose Lalos?</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Why Choose Lalos?</h2>
                 <p class="text-gray-400 text-lg max-w-xl mx-auto">We're not just fixing machines — we're building
                     comfort and trust in every home we serve.</p>
             </div>
@@ -699,7 +699,7 @@
         <div class="relative max-w-5xl mx-auto px-6">
             <div class="text-center mb-12">
                 <span class="text-blue-200 font-semibold text-sm uppercase tracking-widest">Appointments</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Book Your Appointment</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Book Your Appointment</h2>
                 <p class="text-blue-100 text-lg max-w-xl mx-auto">Schedule a service visit at your convenience.
                     Confirmation within 30 minutes.</p>
             </div>
@@ -799,7 +799,7 @@
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="text-blue-600 font-semibold text-sm uppercase tracking-widest">Testimonials</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">What Our Clients Say</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">What Our Clients Say</h2>
                 <p class="text-gray-500 text-lg">Real stories from real customers in our community.</p>
                 <div class="flex items-center justify-center gap-2 mt-4">
                     <span class="text-yellow-400 text-2xl">★★★★★</span>
@@ -912,7 +912,7 @@
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="text-red-500 font-semibold text-sm uppercase tracking-widest">Where We Are</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">Find Us</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-gray-900 mt-2 mb-4">Find Us</h2>
                 <p class="text-gray-500 text-lg max-w-xl mx-auto">Serving our local community and surrounding areas.
                     Come visit us or we'll come to you.</p>
             </div>
@@ -997,7 +997,7 @@
         <div class="relative max-w-6xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="text-red-400 font-semibold text-sm uppercase tracking-widest">Contact Us</span>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Send Us a Message</h2>
+                <h2 class="text-2xl sm:text-3xl lg:text-5xl font-extrabold text-white mt-2 mb-4">Send Us a Message</h2>
                 <p class="text-gray-400 text-lg max-w-xl mx-auto">Have a question? Need a quote? Drop us a message and
                     we'll get back to you fast.</p>
             </div>
